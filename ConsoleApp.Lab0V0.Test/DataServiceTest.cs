@@ -1,9 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using Tyuiu.Vlasenko.ConsoleApp.Lab0V0.Lib;
+using Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Lib;
 
-
-namespace Tyuiu.Vlasenko.ConsoleApp.Lab0V0.Test
+namespace Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Test
 {
     [TestClass]
     public class DataServiceTest
@@ -17,6 +15,7 @@ namespace Tyuiu.Vlasenko.ConsoleApp.Lab0V0.Test
         public void ValidCalc()
         {
             var resAdd = ds.Add(a, b);
+
             Assert.AreEqual(20, resAdd);
         }
 

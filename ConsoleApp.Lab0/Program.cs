@@ -1,7 +1,7 @@
 ﻿using System;
-using Tyuiu.Vlasenko.ConsoleApp.Lab0V0.Lib;
+using Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Lib;
 
-namespace Tyuiu.Vlasenko.ConsoleApp.Lab0
+namespace Tyuiu.VlasenkoAS.ConsoleApp.Lab0
 {
     class Program
     {

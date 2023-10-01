@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-
-namespace Tyuiu.Vlasenko.ConsoleApp.Lab0V0.Lib
+﻿
+namespace Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Lib
 {
     public class DataService
     {
