@@ -5,17 +5,17 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab0", "Lab0", "{477ADE6C-018E-42D7-96E4-2B8506C5D3B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0", "ConsoleApp.Lab0\Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.csproj", "{B0865974-FC02-48C3-B964-37233AD2DA2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0", "Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0\Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.csproj", "{B0865974-FC02-48C3-B964-37233AD2DA2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Lib", "ConsoleApp.Lab0V0Lib\Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Lib.csproj", "{FA6BE617-D3CB-4EB1-AB35-B34835FECA89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Lib", "Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Lib\Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Lib.csproj", "{FA6BE617-D3CB-4EB1-AB35-B34835FECA89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Test", "ConsoleApp.Lab0V0.Test\Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Test.csproj", "{B4C2D854-BA6E-468C-9CA6-59490997F60D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Test", "Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Test\Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Test.csproj", "{B4C2D854-BA6E-468C-9CA6-59490997F60D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab1", "Lab1", "{FC790805-5E30-4BC2-8360-C44BA6D4937A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab2", "Lab2", "{19862A09-6DC0-4C31-81E5-A1308F5726C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.Consoleapp.Lab2.V8", "Tyuiu.VlasenkoAS.Consoleapp.Lab2.V8\Tyuiu.VlasenkoAS.Consoleapp.Lab2.V8.csproj", "{2E431771-7DE9-400F-8E71-ADC0743407E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.ConsoleApp.Lab2.V8", "Tyuiu.VlasenkoAS.Consoleapp.Lab2.V8\Tyuiu.VlasenkoAS.ConsoleApp.Lab2.V8.csproj", "{2E431771-7DE9-400F-8E71-ADC0743407E4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.ConsoleApp.Lab1.V8", "Tyuiu.VlasenkoAS.ConsoleApp.Lab1.V8\Tyuiu.VlasenkoAS.ConsoleApp.Lab1.V8.csproj", "{3EAD020D-3363-4941-BED5-187227322BF2}"
 EndProject
@@ -23,9 +23,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.ConsoleApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.ConsoleApp.Lab1.V8.Test", "Tyuiu.VlasenkoAS.ConsoleApp.Lab1.V8.Test\Tyuiu.VlasenkoAS.ConsoleApp.Lab1.V8.Test.csproj", "{3D3301C0-6A89-4708-84F3-59FC6BD8C213}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.Consoleapp.Lab2.V8.Lib", "Tyuiu.VlasenkoAS.Consoleapp.Lab2.V8.Lib\Tyuiu.VlasenkoAS.Consoleapp.Lab2.V8.Lib.csproj", "{2EB28183-89D2-46EE-A1D5-0DE06DF3CFDE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.ConsoleApp.Lab2.V8.Lib", "Tyuiu.VlasenkoAS.Consoleapp.Lab2.V8.Lib\Tyuiu.VlasenkoAS.ConsoleApp.Lab2.V8.Lib.csproj", "{2EB28183-89D2-46EE-A1D5-0DE06DF3CFDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.Consoleapp.Lab2.V8.Test", "Tyuiu.VlasenkoAS.Consoleapp.Lab2.V8.Test\Tyuiu.VlasenkoAS.Consoleapp.Lab2.V8.Test.csproj", "{5BED5F25-4475-4E6E-8C26-3166F92B5AF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VlasenkoAS.ConsoleApp.Lab2.V8.Test", "Tyuiu.VlasenkoAS.Consoleapp.Lab2.V8.Test\Tyuiu.VlasenkoAS.ConsoleApp.Lab2.V8.Test.csproj", "{5BED5F25-4475-4E6E-8C26-3166F92B5AF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

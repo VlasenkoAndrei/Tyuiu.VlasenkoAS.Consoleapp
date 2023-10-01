@@ -7,8 +7,8 @@
     <ProjectGuid>{2EB28183-89D2-46EE-A1D5-0DE06DF3CFDE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.VlasenkoAS.Consoleapp.Lab2.V8.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.VlasenkoAS.Consoleapp.Lab2.V8.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.VlasenkoAS.ConsoleApp.Lab2.V8.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.VlasenkoAS.ConsoleApp.Lab2.V8.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

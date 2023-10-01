@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleApp.Lab0V0Lib\Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Lib.csproj">
+    <ProjectReference Include="..\Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Lib\Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Lib.csproj">
       <Project>{fa6be617-d3cb-4eb1-ab35-b34835feca89}</Project>
       <Name>Tyuiu.VlasenkoAS.ConsoleApp.Lab0.V0.Lib</Name>
     </ProjectReference>
