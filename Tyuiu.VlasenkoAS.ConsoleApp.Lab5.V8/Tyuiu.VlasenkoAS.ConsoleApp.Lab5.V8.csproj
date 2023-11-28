@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.VlasenkoAS.ConsoleApp.Lab5.V8.Lib\Tyuiu.VlasenkoAS.ConsoleApp.Lab5.V8.Lib.csproj">
+      <Project>{002b3d7c-ef18-45b5-8e75-9747c8e8c749}</Project>
+      <Name>Tyuiu.VlasenkoAS.ConsoleApp.Lab5.V8.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
