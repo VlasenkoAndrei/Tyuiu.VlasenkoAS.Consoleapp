@@ -25,7 +25,7 @@ namespace Tyuiu.VlasenkoAS.ConsoleApp.Lab1.V8.Test
         }
 
         [TestMethod]
-        public void ValidExpressionV_582()
+        public void ValidExpressionV_8_2()
         {
             double result = ds.SolveExpressV_8_2(x, y);
 
